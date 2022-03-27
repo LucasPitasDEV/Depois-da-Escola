@@ -1,0 +1,30 @@
+body{
+	width: 100%;
+	background-color: black;
+	background-attachment: fixed;
+	font-family: 'Ubuntu', sans-serif;
+	color:LightSeaGreen;
+	
+}
+#top1{height: 100%;
+width: 33.2%;
+float: left;
+background-color: black;
+}
+#top2{height: 100%;
+width: 33.2%;
+float: left;
+}
+#top3{height: 100%;
+width: 33.2%;
+float: right;
+}
+h1{font-size: 450%}
+
+#prev{
+	font-size: 3em
+}
+#troll{
+	text-align: center;
+	
+}
